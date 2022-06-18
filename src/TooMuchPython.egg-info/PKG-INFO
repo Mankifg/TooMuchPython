@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: TooMuchPython
-Version: 0.0.1
+Version: 0.0.2
 Summary: Too much Python or tmp
 Home-page: https://github.com/Mankifg/TooMuchPython
 Author: Mankifg
@@ -13,4 +13,10 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-not completed yet ....
+# Too Much Python
+Too much Python or tmp is a Python packege made to make python more easier to use. It will 
+
+## View
+
+[On Github](https://github.com/Mankifg/TooMuchPython) or [On Pypi](https://pypi.org/project/TooMuchPython/)
+
