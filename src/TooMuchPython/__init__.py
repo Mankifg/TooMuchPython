@@ -1,5 +1,5 @@
 import math
-print('Hello World! (if you see this then this work)')
+print('Hello World! (if you see this, then it works)')
 
 def tti(n):
     if round(n) == n:
